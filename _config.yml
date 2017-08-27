@@ -19,10 +19,9 @@ sidebar-avatar: img/avatar-by.jpg      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 weibo_username:     EverSayNever72
-zhihu_username:     suntao
 github_username:    saylst
 jianshu_username:   3340a430bc0b
-twitter_username:   saylst
+
 
 
 
@@ -86,13 +85,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Sina",
+        title: "新浪微博",
         href: "http://weibo.com/2069130385/profile?topnav=1&wvr=6"
     },{
         title: "简书·saylst",
         href: "http://www.jianshu.com/u/3340a430bc0b"
     },{
-        title: "Blog",
-        href: "www.stwh.club"
+        title: "个人主页",
+        href: "http://www.stwh.club"
     }
 ]
