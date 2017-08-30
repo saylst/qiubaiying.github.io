@@ -1,7 +1,7 @@
 # ST Blog
 
 ## [我的博客在这里 &rarr;] (http://saylst.github.io)
-![](http://stwh.club/img/post/home.png)
+![](http://stwh.club/img/post/home.jpg)
 
 ### 致谢
 
