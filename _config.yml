@@ -21,6 +21,7 @@ RSS: false
 weibo_username:     EverSayNever72
 github_username:    saylst
 jianshu_username:   3340a430bc0b
+twitter_username:   saylst
 
 
 
@@ -69,6 +70,11 @@ disqus_username: saylst
 # Baidu Analytics
 ba_track_id: 5335d428af0f37274a25c686b03cc6a1
 
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "写代码，做码农，<br>骏马若凌空 终须着地行"
+sidebar-avatar: /img/st1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
@@ -93,5 +99,11 @@ friends: [
     },{
         title: "个人主页",
         href: "http://www.stwh.club"
+    },{
+        title: "huangxuan"
+        href: "http://huangxuan.me"
+    },{
+        title: "前端神盾局",
+        href: "http://wepiaofei.github.io/blog/"
     }
 ]
