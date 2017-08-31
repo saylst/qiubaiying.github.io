@@ -101,5 +101,11 @@ friends: [
     },{
         title: "前端神盾局",
         href: "http://wepiaofei.github.io/blog/"
+    },{
+        title: "sunxiaobiu技术不宅",
+        href: "http://sunxiaobiu.github.io/"
+    },{
+        title: "枳",
+        href: "http://fiona23.github.io/"
     }
 ]
