@@ -10,7 +10,7 @@ tags:
     - Java
 ---
 
-#Comparator
+# Comparator
 
 **背景**：对一个用户（包括name、score两个属性）List按score大小排序，要求成绩相同时，保持List中的原有顺序。
 
