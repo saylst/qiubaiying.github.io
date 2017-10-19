@@ -59,11 +59,11 @@ h1.title {
   background: #bbada0;
   padding: 15px 25px;
   font-size: 25px;
-  height: 20px;
-  line-height: 47px;
+  height: 15px;
+  line-height: 30px;
   font-weight: bold;
   border-radius: 3px;
-  color: red;
+  color: balck;
   margin-top: 8px;
   text-align: center; }
   .score-container:after, .best-container:after {
