@@ -2,7 +2,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #faf8ef;
+  background: #fafafa;
   color: #776e65;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
@@ -59,11 +59,11 @@ h1.title {
   background: #bbada0;
   padding: 15px 25px;
   font-size: 25px;
-  height: 25px;
+  height: 20px;
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
-  color: white;
+  color: red;
   margin-top: 8px;
   text-align: center; }
   .score-container:after, .best-container:after {
