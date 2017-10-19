@@ -2,7 +2,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #fafafa;
+  background: #7FFFAA;
   color: #776e65;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
@@ -59,8 +59,8 @@ h1.title {
   background: #bbada0;
   padding: 15px 25px;
   font-size: 25px;
-  height: 15px;
-  line-height: 30px;
+  height: 20px;
+  line-height: 60px;
   font-weight: bold;
   border-radius: 3px;
   color: balck;
