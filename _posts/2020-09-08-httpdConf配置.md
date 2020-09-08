@@ -412,7 +412,7 @@ Allow from all
 ```
 <IfModule mod_dav_fs.c>
 
-\# Location of the WebDAV lock database.
+# Location of the WebDAV lock database.
 
 DAVLockDB /var/lib/dav/lockdb
 
