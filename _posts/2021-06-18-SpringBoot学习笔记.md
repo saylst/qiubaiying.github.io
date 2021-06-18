@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 成长
+title: SpringBoot学习笔记
 date: 2021-06-18
 author: 少年不年少
 header-img: img/post/LBJ.jpg
@@ -10,6 +10,9 @@ tags:
     - SpringBoot
 
 ---
+
+Spring Boot是由Pivotal团队提供的全新框架，其设计目的是用来简化新Spring应用的初始搭建以及开发过程。
+
 
 # pom依赖
 
